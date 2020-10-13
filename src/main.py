@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print("Done with program")
     print("Hello this is Nelly!")
     print("I am demonstrating my ability to manage a git repo!")
+    print("this is my final commit. goodbye :)")
